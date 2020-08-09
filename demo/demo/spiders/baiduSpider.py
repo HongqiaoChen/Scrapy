@@ -14,5 +14,3 @@ class BaiduspiderSpider(scrapy.Spider):
         # print(response.status)
 
 
-
-123
